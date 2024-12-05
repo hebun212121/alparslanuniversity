@@ -13,7 +13,7 @@ public class javaodev2 {
 
             for (int i = 1; i <= n; i++)
             {
-                t *= i; // Faktöriyel hesaplama
+                t *= i;
             }
 
         System.out.println(n + "! = " + t); // Sonuç
