@@ -16,7 +16,7 @@ public static void main(String [] args)
 
     for (int i = 1; i <= n; i++)
     {
-        if (i % 2 != 0) {  // Mod değeri alıyoruz buradan eğer olarak mod değeri 2'ye bölününce sıfır vermeyenler yani tek sayıları çekiyoruz
+        if (i % 2 != 0) {
 
             System.out.print(i + " ");
         }
