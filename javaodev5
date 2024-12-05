@@ -23,7 +23,7 @@ public class javaodev5
         }
         // Ortalama
         int ort = toplam/n;
-        System.out.print("Ortalama değer: " + ort);
+        System.out.print("Ortalama: " + ort);
 
     }
 }
