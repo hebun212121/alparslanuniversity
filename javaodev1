@@ -16,7 +16,7 @@ public class javaodev1
             t += i;
 
         {
-            System.out.println("1'den " +n+ " 'e kadar olan sayıların toplamı: " +t);
+            System.out.println("Sayıların toplamı: " +t);
 
         }
 
